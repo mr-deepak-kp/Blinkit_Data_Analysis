@@ -350,10 +350,10 @@ Open `Blinkit_Analysis_in_python.ipynb` or view the static report at `Blinkit_An
 
 ---
 
-🤝 Connect With Me  
+## 🤝 Connect With Me
 
-![GitHub](https://img.shields.io/badge/GitHub-mr--deepak--kp-181717?style=for-the-badge&logo=github)    
-![LinkedIn](https://img.shields.io/badge/LinkedIn-deepak--kumar--prasad-0A66C2?style=for-the-badge&logo=linkedin)  
+[![GitHub](https://img.shields.io/badge/GitHub-mr--deepak--kp-181717?style=for-the-badge&logo=github)](https://github.com/mr-deepak-kp)    
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-deepak--kumar--prasad-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-kumar-prasad/)
 
 ---
 Blinkit Grocery Sales Analysis · MySQL · Python · Power BI · Excel · Business Intelligence
